@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: itagenturen-com
+mx: itagenturen-com.tld
 max_age: 604800
